@@ -1,8 +1,10 @@
-React Essentials
-This is a basic examples of the contents below.
-Components, JSX & State
+# React Essentials
+This is a basic example of the contents below.
 
-1- Building User Interfaces with components
-2- Using, Sharing & Outputing Data
-3- Handling User Events
-4- Building Interactive UIs with State
+### Components, JSX & State
+
+✅ **Building User Interfaces with components**
+✅ **Using, Sharing & Outputting Data**
+✅ **Handling User Events**
+✅ **Building Interactive UIs with State**
+
